@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Spinner With OnClickListener</string>
+
+    <string-array name="depertment">
+
+        <item>  </item>
+        <item>Computer</item>
+        <item>Electrical</item>
+        <item>Electronics</item>
+        <item>Mechanical</item>
+        <item>Marine</item>
+        <item>Civil</item>
+        <item>AutoMobile</item>
+        <item>Ship Building</item>
+        <item>Architecture</item>
+        <item>Garments Design</item>
+        <item>Textile</item>
+
+    </string-array>
+
+</resources>
